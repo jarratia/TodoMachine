@@ -17,6 +17,7 @@
   }
   .TodoItem-p--complete {
     text-decoration: line-through;
+    color: rgb(62, 129, 92)
   }
   
   .Icon {
